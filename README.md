@@ -37,6 +37,6 @@ Handles user-related operations such as authentication, registration, profile ma
 - **Backend**: Spring Boot, Spring Data JPA
 - **Service Discovery**: Spring Cloud Eureka
 - **Gateway**: Spring Cloud Gateway
-- **Database**: MySQL
+- **Database**: MySQL, PostgreSQL
 - **Containerization**: Docker 
 - **Security**: JWT, OAuth2 
